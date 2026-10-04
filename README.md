@@ -1,2 +1,10 @@
-# homelab-media-server
-Self-hosted media server built with Docker, Jellyfin, Navidrome, automated music organization, and Tailscale.
+# Homelab Media Server
+
+## Overview
+## Architecture
+## Services
+## Storage
+## Music Organization
+## Docker Setup
+## Remote Access
+## Issues & Future Improvements
